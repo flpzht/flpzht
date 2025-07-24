@@ -1,6 +1,6 @@
 # Felipe Carvalho
 
-Economista migrando pra tech | Python, SQL, Excel avançado.
+Formado em Ciências Economicas com muito interesse em entrar no mundo tech | Data Analyst and Data Scientist
 
 ### Conecte-se comigo
 
@@ -23,7 +23,6 @@ Economista migrando pra tech | Python, SQL, Excel avançado.
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flpzht&theme=transparent&bg_color=000&border_color=ff9900&show_icons=true&icon_color=FF9900&title_color=ff9900&text_color=FFF&hide_title=true)
-
 
 ### Meus Principais Desafios de Projeto DIO
 
