@@ -1,6 +1,6 @@
 # Felipe Carvalho
 
-Formado em Ciências Economicas com muito interesse em entrar no mundo tech | Data Analyst and Data Scientist
+Formado em Ciências Economicas em fase de transição para o mundo tech | conhecimento em Data Analyst and Data Scientist, porém foco principal é Front-end, Back-end e Fullstack
 
 ### Conecte-se comigo
 
