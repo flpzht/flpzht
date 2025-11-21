@@ -30,7 +30,10 @@ Formado em Ciências Economicas em fase de transição para o mundo tech | conhe
 
 ### Meus Principais Desafios de Projeto DIO
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=ff9900&show_icons=true&icon_color=ff9900&title_color=ff9900&text_color=FFF)](https://github.com/flpzht/dio-lab-open-source)
-
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-rank&bg_color=000&border_color=ff9900&show_icons=true&icon_color=ff9900&title_color=ff9900&text_color=FFF)](https://github.com/flpzht/desafio-rank)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-classhero&bg_color=000&border_color=ff9900&show_icons=true&icon_color=ff9900&title_color=ff9900&text_color=FFF)](https://github.com/flpzht/desafio-classhero)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-do-heroi&bg_color=000&border_color=ff9900&show_icons=true&icon_color=ff9900&title_color=ff9900&text_color=FFF)](https://github.com/flpzht/desafio-do-heroi)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=estudo-input-js&bg_color=000&border_color=ff9900&show_icons=true&icon_color=ff9900&title_color=ff9900&text_color=FFF)](https://github.com/flpzht/estudo-input-js)
