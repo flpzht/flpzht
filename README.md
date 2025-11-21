@@ -33,4 +33,4 @@ Formado em Ciências Economicas em fase de transição para o mundo tech | conhe
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=ff9900&show_icons=true&icon_color=ff9900&title_color=ff9900&text_color=FFF)](https://github.com/flpzht/dio-lab-open-source)
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-rank&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/flpzht/desafio-rank)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-rank&bg_color=000&border_color=ff9900&show_icons=true&icon_color=ff9900&title_color=ff9900&text_color=FFF)](https://github.com/flpzht/desafio-rank)
