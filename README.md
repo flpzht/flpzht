@@ -1,7 +1,7 @@
 # 🧑‍💻 Felipe Carvalho
 
 🎓 Formado em **Ciências Econômicas** e em transição para o mundo **Tech**.  
-Tenho experiência em **Data Analysis** e **Data Science**, mas meu foco atual está em **Desenvolvimento Web** — explorando **Front-end**, **Back-end** e **Fullstack**.  
+Tenho experiência básica em **Data Analysis** e **Data Science**, mas meu foco atual está em **Desenvolvimento Web** — explorando **Front-end**, **Back-end** e **Fullstack**.  
 Sempre em busca de aprender algo novo e transformar ideias em projetos reais 🚀.
 
 ---
