@@ -35,6 +35,7 @@ Sempre em busca de aprender algo novo e transformar ideias em projetos reais ðŸš
 ## ðŸ“Š GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flpzht&theme=transparent&bg_color=000&border_color=ff9900&show_icons=true&icon_color=FF9900&title_color=ff9900&text_color=FFF&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpzht&layout=compact&theme=transparent&bg_color=000&border_color=ff9900&show_icons=true&icon_color=FF9900&title_color=ff9900&text_color=FFF&hide_title=true)
 
 ---
 
