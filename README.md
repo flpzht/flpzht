@@ -34,19 +34,19 @@ Sempre em busca de aprender algo novo e transformar ideias em projetos reais �
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flpzht&theme=transparent&bg_color=000&border_color=ff9900&show_icons=true&icon_color=FF9900&title_color=ff9900&text_color=FFF&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flpzht&theme=outrun)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpzht&layout=compact&theme=transparent&bg_color=000&border_color=ff9900&show_icons=true&icon_color=FF9900&title_color=ff9900&text_color=FFF&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpzht&layout=compact&theme=outrun)
 
 ---
 
 ## 🚀 Principais Projetos (DIO)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-rank&bg_color=000&border_color=ff9900&show_icons=true&icon_color=ff9900&title_color=ff9900&text_color=FFF)](https://github.com/flpzht/desafio-rank)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-classhero&bg_color=000&border_color=ff9900&show_icons=true&icon_color=ff9900&title_color=ff9900&text_color=FFF)](https://github.com/flpzht/desafio-classhero)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-rank&theme=outrun)](https://github.com/flpzht/desafio-rank)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-classhero&theme=outrun)](https://github.com/flpzht/desafio-classhero)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-do-heroi&bg_color=000&border_color=ff9900&show_icons=true&icon_color=ff9900&title_color=ff9900&text_color=FFF)](https://github.com/flpzht/desafio-do-heroi)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=estudo-input-js&bg_color=000&border_color=ff9900&show_icons=true&icon_color=ff9900&title_color=ff9900&text_color=FFF)](https://github.com/flpzht/estudo-input-js)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-do-heroi&theme=outrun)](https://github.com/flpzht/desafio-do-heroi)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=estudo-input-js&theme=outrun)](https://github.com/flpzht/estudo-input-js)
 
 ---
 
