@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" width="100%" alt="Banner: Logo estilizado com a frase See You Space Cowboy...">
+  <img src="https://github.com/flpzht/flpzht/blob/main/imgs/ed-banner.webp" width="100%" alt="Banner: Logo estilizado com a frase See You Space Cowboy...">
 </div>
 
 # 🚀 FELIPE CARVALHO — SEE YOU SPACE DEV...
@@ -76,7 +76,7 @@
 ---
 
 <div align="center">
-  <img src="https://images.steamusercontent.com/ugc/837016417756088462/86E3CA96A4D29050989282A122917E64B87CA3AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300px" alt="GIF animado: Spike Spiegel finalizando uma luta." />
+  <img src="https://github.com/flpzht/flpzht/blob/main/imgs/see-you-scb.gif" width="300px" alt="GIF animado: Spike Spiegel finalizando uma luta." />
   <br/>
   <h3>✨ Fim da Transmissão. See You Space Dev... ✨</h3>
 </div>
