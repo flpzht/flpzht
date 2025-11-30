@@ -42,7 +42,7 @@ Sempre em busca de aprender algo novo e transformar ideias em projetos reais ðŸš
 
 ## ðŸš€ Principais Projetos (DIO)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-rank&theme=outrun)](https://github.com/flpzht/projeto-dio-wikipedia)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=projeto-dio-wikipedia&theme=outrun)](https://github.com/flpzht/projeto-dio-wikipedia)
 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=desafio-rank&theme=outrun)](https://github.com/flpzht/desafio-rank)
