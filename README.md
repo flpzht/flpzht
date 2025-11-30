@@ -2,7 +2,7 @@
   <img src="https://github.com/flpzht/flpzht/blob/main/imgs/ed-banner.webp" width="60%" alt="Banner: Logo estilizado com a frase See You Space Cowboy...">
 </div>
 
-## 🛸Bem-vindos ao meu Github 
+# 🛸Bem-vindos ao meu Github 
 
 ## 🚀 Me chamo Felipe Carvalho
 
