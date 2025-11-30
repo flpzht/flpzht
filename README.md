@@ -52,8 +52,6 @@
 <img height="160em" src="https://stats.vercel.app/api/top-langs/?username=flpzht&layout=compact&theme=great-gatsby&hide_border=true&title_color=D4B56A&text_color=F2E9D0&icon_color=BA0000" alt="Linguagens Mais Usadas por Felipe Carvalho"/>
 
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpzht&layout=compact&theme=great_gatsby)
 ---
 
 ## 🌟 PROJETOS EM DESTAQUE — RECOMPENSAS CAPTURADAS
