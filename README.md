@@ -59,7 +59,7 @@
 
 | **Projeto** | **Descrição Breve** |
 | :---: | :---: |
-| [WikiFlp](https://github.com/flpzht/projeto-dio-wikipedia) | Projeto DIO - Exemplo de HTML/CSS. |
+| [WikiFlp](https://github.com/flpzht/projeto-dio-wikipedia) ([Link](https://projeto-dio-wikipedia.vercel.app/))| Projeto DIO - Exemplo de HTML/CSS. |
 | [ClassHero](https://github.com/flpzht/desafio-classhero) | Desafio de Lógica e Estrutura de Dados. |
 | [ClinicaPsy](https://github.com/flpzht/trilha-html-modulo-2) | Projeto DIO - Exemplo de HTML/CSS. |
 
