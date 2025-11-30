@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/flpzht/flpzht/blob/main/imgs/ed-banner.webp" width="100%" alt="Banner: Logo estilizado com a frase See You Space Cowboy...">
+  <img src="https://github.com/flpzht/flpzht/blob/main/imgs/ed-banner.webp" width="60%" alt="Banner: Logo estilizado com a frase See You Space Cowboy...">
 </div>
 
 # 🚀 FELIPE CARVALHO — SEE YOU SPACE DEV...
