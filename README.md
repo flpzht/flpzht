@@ -49,6 +49,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=flpzht&theme=dark&hide_border=true&border_radius=4.5&date_format=j%20M%5B%20Y%5D&background=1A1A1A&ring=BA0000&side_icon=D4B56A&currStreakNum=F2E9D0" alt="GitHub Streak de Felipe Carvalho"/>
 
+<img height="160em" src="https://stats.vercel.app/api/top-langs/?username=flpzht&layout=compact&theme=great-gatsby&hide_border=true&title_color=D4B56A&text_color=F2E9D0&icon_color=BA0000" alt="Linguagens Mais Usadas por Felipe Carvalho"/>
+
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpzht&layout=compact&theme=great_gatsby)
