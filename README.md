@@ -48,17 +48,14 @@
 ## 📊 GITHUB STATS — O REGISTRO DE DADOS DA NAVE
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=flpzht&theme=dark&hide_border=true&border_radius=4.5&date_format=j%20M%5B%20Y%5D&background=1A1A1A&ring=BA0000&side_icon=D4B56A&currStreakNum=F2E9D0" alt="GitHub Streak de Felipe Carvalho"/>
-<br>
-<img height="160em" src="https://stats.vercel.app/api/top-langs/?username=flpzht&layout=compact&theme=great-gatsby" alt="Linguagens Mais Usadas por Felipe Carvalho"/>
-
 </div>
 
 ## 🌟 PROJETOS EM DESTAQUE — RECOMPENSAS CAPTURADAS
 
 | **Projeto** | **Descrição Breve** |
 | :---: | :---: |
+| [FrontEndStudies](https://github.com/flpzht/frontend-studies) | Projeto de Estudos Frontend |
 | [WikiFlp](https://github.com/flpzht/projeto-dio-wikipedia) ([Link](https://projeto-dio-wikipedia.vercel.app/))| Projeto DIO - Exemplo de HTML/CSS. |
 | [ClassHero](https://github.com/flpzht/desafio-classhero) | Desafio de Lógica e Estrutura de Dados. |
 | [ClinicaPsy](https://github.com/flpzht/trilha-html-modulo-2) | Projeto DIO - Exemplo de HTML/CSS. |
