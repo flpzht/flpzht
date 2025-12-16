@@ -56,13 +56,38 @@
 
 ## 🌟 PROJETOS EM DESTAQUE — RECOMPENSAS CAPTURADAS
 
-| **Projeto** | **Descrição Breve** |
-| :---: | :---: |
-| [FrontEndStudies](https://github.com/flpzht/frontend-studies) | Projeto de Estudos Frontend |
-| [WikiFlp](https://github.com/flpzht/projeto-dio-wikipedia) ([Link](https://projeto-dio-wikipedia.vercel.app/))| Projeto DIO - Exemplo de HTML/CSS. |
-| [ClassHero](https://github.com/flpzht/desafio-classhero) | Desafio de Lógica e Estrutura de Dados. |
-| [ClinicaPsy](https://github.com/flpzht/trilha-html-modulo-2) | Projeto DIO - Exemplo de HTML/CSS. |
-
+<table>
+  <thead>
+    <tr>
+      <th align="center">Projeto</th>
+      <th align="center">Descrição Breve</th>
+      <th align="center">Principal Repositório</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/flpzht/frontend-studies">FrontEndStudies</a></td>
+      <td align="center">Projeto de Estudos Frontend</td>
+      <td align="center" rowspan="4">
+        <a href="https://github.com/flpzht/frontend-studies">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=frontend-studies&theme=codeSTACKr" alt="GitHub Stats" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/flpzht/projeto-dio-wikipedia">WikiFlp</a> (<a href="https://projeto-dio-wikipedia.vercel.app/">Link</a>)</td>
+      <td align="center">Projeto DIO - Exemplo de HTML/CSS.</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/flpzht/desafio-classhero">ClassHero</a></td>
+      <td align="center">Desafio de Lógica e Estrutura de Dados.</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/flpzht/trilha-html-modulo-2">ClinicaPsy</a></td>
+      <td align="center">Projeto DIO - Exemplo de HTML/CSS.</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 💬 FILOSOFIA DE TRABALHO — JAZZ & CÓDIGO
