@@ -4,44 +4,46 @@
 
 # 🛸Bem-vindos ao meu Github 
 
-## 🚀 Me chamo Felipe Carvalho
+## 🚀 Felipe Carvalho — Desenvolvedor Front-end Júnior
 
-> *Economia, Código, Jazz e um Foco Fullstack. O caçador de recompensas de bugs está online.*
+> Desenvolvedor Front-end Júnior | HTML • CSS • JavaScript  
+> Em transição de carreira a partir da Economia
 
-🎓 Bacharel em **Ciências Econômicas** em transição para o universo da **Tecnologia**.  
-💻 Atualmente focado em **Desenvolvimento Web Fullstack** — explorando **Front-end** e **Back-end**.  
-⚙️ Experiência em **Data Analysis**, **Data Science**, **Python** e **SQL**.  
+💻 Focado em **Desenvolvimento Front-end**, criando interfaces responsivas, funcionais e acessíveis.  
+🎓 Bacharel em **Ciências Econômicas**, trazendo forte base analítica para resolução de problemas.  
+🎯 Objetivo profissional: atuar como **Front-end Júnior**, evoluindo através de projetos práticos e código limpo.
 🎵 Inspirado pelo estilo Bebop: **simples, direto, eficiente** — e sempre em busca da próxima recompensa.
 
 ---
 
-## 🔗 CONECTE-SE — O COMBO DA BEBOP
+## 🔗 Conecte-se
 
 <div align="left">
 
-[![Perfil DIO](https://img.shields.io/badge/DIO-BA0000?style=for-the-badge&logoColor=F2E9D0)](https://www.dio.me/users/flpcsb)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4B56A)](https://github.com/flpzht)
-[![E-mail](https://img.shields.io/badge/Email-2B2B2B?style=for-the-badge&logo=microsoft-outlook&logoColor=BA0000)](mailto:flpcsb@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F2E9D0)](https://www.linkedin.com/in/felipecarvalhodesouzabarros/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipecarvalhodesouzabarros/)
+[![Email](https://img.shields.io/badge/Email-2B2B2B?style=for-the-badge&logo=microsoft-outlook&logoColor=BA0000)](mailto:flpcsb@hotmail.com)
 
 </div>
 
 ---
 
-## 🛠️ TECH STACK — FERRAMENTAS PARA CAÇAR BUGS
+## 🛠️ TECH STACK
 
-### ⚙️ Ferramentas Essenciais
-![Git](https://img.shields.io/badge/GIT-BA0000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=D4B56A)
-![Excel](https://img.shields.io/badge/Excel-013220?style=for-the-badge&logo=microsoft-excel&logoColor=F2E9D0)
-![Power BI](https://img.shields.io/badge/Power_BI-2B2B2B?style=for-the-badge&logo=powerbi&logoColor=BA8B00)
-
-### 💡 Linguagens & Tecnologias
-![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=D4B56A)
-![SQL](https://img.shields.io/badge/SQL-2B2B2B?style=for-the-badge&logo=oracle&logoColor=BA0000)
-![HTML5](https://img.shields.io/badge/HTML5-BA0000?style=for-the-badge&logo=html5&logoColor=F2E9D0)
+### 🎨 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-BA0000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=0066CC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D4B56A?style=for-the-badge&logo=javascript&logoColor=000)
+
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-BA0000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=D4B56A)
+![VS Code](https://img.shields.io/badge/VS_Code-1A1A1A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+### 📊 Conhecimentos Complementares
+![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=D4B56A)
+![SQL](https://img.shields.io/badge/SQL-2B2B2B?style=for-the-badge&logo=oracle&logoColor=BA0000)
+![Excel](https://img.shields.io/badge/Excel-013220?style=for-the-badge&logo=microsoft-excel&logoColor=F2E9D0)
+![Power BI](https://img.shields.io/badge/Power_BI-2B2B2B?style=for-the-badge&logo=powerbi&logoColor=BA8B00)
 
 ---
 
@@ -66,8 +68,8 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/flpzht/frontend-studies">FrontEndStudies</a></td>
-      <td align="center">Projeto de Estudos Frontend</td>
+      <td align="center"><a href="https://github.com/flpzht/frontend-studies/tree/main/projects/01-landing-page">FrontEndStudies</a></td>
+      <td align="center">Projeto Trilha de estudos CSS</td>
       <td align="center" rowspan="4">
         <a href="https://github.com/flpzht/frontend-studies">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=frontend-studies&theme=codeSTACKr" alt="GitHub Stats" />
@@ -75,16 +77,16 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/flpzht/projeto-dio-wikipedia">WikiFlp</a> (<a href="https://projeto-dio-wikipedia.vercel.app/">Link</a>)</td>
-      <td align="center">Projeto DIO - Exemplo de HTML/CSS.</td>
+      <td align="center"><a href="https://github.com/flpzht/frontend-studies/tree/main/projects/02-landing-page">Clone Estático YouTube</a></td>
+      <td align="center">Projeto estático inspirado no Youtube-01</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/flpzht/desafio-classhero">ClassHero</a></td>
-      <td align="center">Desafio de Lógica e Estrutura de Dados.</td>
+      <td align="center"><a href="https://github.com/flpzht/frontend-studies/tree/main/projects/03-landing-page">Listagem YouTube</a></td>
+      <td align="center">Projeto estático inspirado no Youtube-02</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/flpzht/trilha-html-modulo-2">ClinicaPsy</a></td>
-      <td align="center">Projeto DIO - Exemplo de HTML/CSS.</td>
+      <td align="center"><a href="https://github.com/flpzht/frontend-studies/tree/main/projects/04-landing-page">ClinicaPsy</a></td>
+      <td align="center">Projeto estático inspirado no Discord</td>
     </tr>
   </tbody>
 </table>
