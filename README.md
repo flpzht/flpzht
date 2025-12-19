@@ -85,7 +85,7 @@
       <td align="center">Projeto estático inspirado no Youtube-02</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/flpzht/frontend-studies/tree/main/projects/04-landing-page">ClinicaPsy</a></td>
+      <td align="center"><a href="https://github.com/flpzht/frontend-studies/tree/main/projects/04-landing-page">Discord Estático</a></td>
       <td align="center">Projeto estático inspirado no Discord</td>
     </tr>
   </tbody>
