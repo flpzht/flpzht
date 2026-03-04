@@ -1,33 +1,43 @@
 <div align="center">
-  <img src="https://github.com/flpzht/flpzht/blob/main/imgs/ed-banner.webp" width="60%" alt="Banner: Logo estilizado com a frase See You Space Cowboy...">
+  <img src="https://github.com/flpzht/flpzht/blob/main/imgs/ed-banner.webp" width="70%" alt="Banner: Logo estilizado com a frase See You Space Cowboy..."/>
 </div>
 
-# 🛸Bem-vindos ao meu Github 
+<br/>
 
-## 🚀 Felipe Carvalho — Desenvolvedor Front-end Júnior
+<div align="center">
 
-> Desenvolvedor Front-end Júnior | HTML • CSS • JavaScript  
-> Em transição de carreira a partir da Economia
+# Felipe Carvalho
+### `< Front-end Developer />`
 
-💻 Focado em **Desenvolvimento Front-end**, criando interfaces responsivas, funcionais e acessíveis.  
-🎓 Bacharel em **Ciências Econômicas**, trazendo forte base analítica para resolução de problemas.  
-🎯 Objetivo profissional: atuar como **Front-end Júnior**, evoluindo através de projetos práticos e código limpo.
-🎵 Inspirado pelo estilo Bebop: **simples, direto, eficiente** — e sempre em busca da próxima recompensa.
-
----
-
-## 🔗 Conecte-se
-
-<div align="left">
+*"No matter what, I'll never abandon my navigation and fight." — Spike Spiegel*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipecarvalhodesouzabarros/)
-[![Email](https://img.shields.io/badge/Email-2B2B2B?style=for-the-badge&logo=microsoft-outlook&logoColor=BA0000)](mailto:flpcsb@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-BA0000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:flpcsb@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=D4B56A)](https://github.com/flpzht)
 
 </div>
 
 ---
 
-## 🛠️ TECH STACK
+## 👨‍🚀 Sobre o Tripulante
+
+```javascript
+const felipe = {
+  role:       "Front-end Developer Jr.",
+  background: "Ciências Econômicas → Dev Front-end",
+  focus:      ["HTML", "CSS", "JavaScript"],
+  goal:       "Interfaces responsivas, funcionais e acessíveis",
+  vibe:       "Simples como Spike. Técnico como Jet. Curioso como Ed.",
+};
+```
+
+Economista em transição de carreira, trazendo **raciocínio analítico** e **pensamento estruturado** para o mundo do desenvolvimento. Apaixonado por transformar ideias em interfaces que as pessoas realmente querem usar.
+
+---
+
+## 🛠️ Stack da Nave
+
+<div align="center">
 
 ### 🎨 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-BA0000?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,70 +51,76 @@
 
 ### 📊 Conhecimentos Complementares
 ![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=D4B56A)
-![SQL](https://img.shields.io/badge/SQL-2B2B2B?style=for-the-badge&logo=oracle&logoColor=BA0000)
-![Excel](https://img.shields.io/badge/Excel-013220?style=for-the-badge&logo=microsoft-excel&logoColor=F2E9D0)
-![Power BI](https://img.shields.io/badge/Power_BI-2B2B2B?style=for-the-badge&logo=powerbi&logoColor=BA8B00)
+![SQL](https://img.shields.io/badge/SQL-2B2B2B?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Excel](https://img.shields.io/badge/Excel-013220?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-2B2B2B?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 
----
-
-## 📊 GITHUB STATS — O REGISTRO DE DADOS DA NAVE
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flpzht&theme=dark&hide_border=true&border_radius=4.5&date_format=j%20M%5B%20Y%5D&background=1A1A1A&ring=BA0000&side_icon=D4B56A&currStreakNum=F2E9D0" alt="GitHub Streak de Felipe Carvalho"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpzht&layout=donut&theme=codeSTACKr&title=true&hide_border=true)
-![Marcos Carreiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=flpzht&show_icons=true&theme=codeSTACKr&hide_border=true)
 </div>
 
-## 🌟 PROJETOS EM DESTAQUE — RECOMPENSAS CAPTURADAS
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">Projeto</th>
-      <th align="center">Descrição Breve</th>
-      <th align="center">Principal Repositório</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/flpzht/frontend-studies/tree/main/projects/01-landing-page">FrontEndStudies</a></td>
-      <td align="center">Projeto Trilha de estudos CSS</td>
-      <td align="center" rowspan="4">
-        <a href="https://github.com/flpzht/frontend-studies">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=frontend-studies&theme=codeSTACKr" alt="GitHub Stats" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/flpzht/frontend-studies/tree/main/projects/02-landing-page">Clone Estático YouTube</a></td>
-      <td align="center">Projeto estático inspirado no Youtube-01</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/flpzht/frontend-studies/tree/main/projects/03-landing-page">Listagem YouTube</a></td>
-      <td align="center">Projeto estático inspirado no Youtube-02</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/flpzht/frontend-studies/tree/main/projects/04-landing-page">Discord Estático</a></td>
-      <td align="center">Projeto estático inspirado no Discord</td>
-    </tr>
-  </tbody>
-</table>
 ---
 
-## 💬 FILOSOFIA DE TRABALHO — JAZZ & CÓDIGO
+## 🌟 Missões em Destaque
 
-> *"Aprender, construir e compartilhar conhecimento é o que move minha jornada no mundo da tecnologia."*
+<div align="center">
 
-- 💡 **Curiosidade Constante:** Buscando sempre a próxima ideia, como uma melodia de jazz.
-- 🎯 **Foco Fullstack:** Objetivo principal é o desenvolvimento completo e eficiente.
-- 🚀 **Prática Diária:** Transformando conceitos em projetos reais e funcionais.
-- 🐺 **Estilo:** Simples como Spike, técnico como Jet, curioso como Ed.
+| 🚀 Projeto | 📋 Descrição | 🔗 |
+|:---|:---|:---:|
+| [**Landing Page — CSS Trilha**](https://github.com/flpzht/frontend-studies/tree/main/projects/01-landing-page) | Projeto prático focado em CSS avançado e boas práticas de estilização | [→](https://github.com/flpzht/frontend-studies/tree/main/projects/01-landing-page) |
+| [**Clone Estático YouTube I**](https://github.com/flpzht/frontend-studies/tree/main/projects/02-landing-page) | Recriação da interface do YouTube com HTML & CSS puro | [→](https://github.com/flpzht/frontend-studies/tree/main/projects/02-landing-page) |
+| [**Clone Estático YouTube II**](https://github.com/flpzht/frontend-studies/tree/main/projects/03-landing-page) | Versão aprimorada com foco em listagem e organização visual | [→](https://github.com/flpzht/frontend-studies/tree/main/projects/03-landing-page) |
+| [**Clone Estático Discord**](https://github.com/flpzht/frontend-studies/tree/main/projects/04-landing-page) | Recriação fiel da landing page do Discord | [→](https://github.com/flpzht/frontend-studies/tree/main/projects/04-landing-page) |
+
+</div>
+
+<div align="center">
+
+[![frontend-studies](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=frontend-studies&theme=codeSTACKr&hide_border=true)](https://github.com/flpzht/frontend-studies)
+
+</div>
+
+---
+
+## 📡 Registro de Dados da Nave
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=flpzht&theme=dark&hide_border=true&border_radius=4.5&date_format=j%20M%5B%20Y%5D&background=1A1A1A&ring=BA0000&side_icon=D4B56A&currStreakNum=F2E9D0" alt="GitHub Streak de Felipe Carvalho" />
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpzht&layout=donut&theme=codeSTACKr&title=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flpzht&show_icons=true&theme=codeSTACKr&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Rota de Navegação
+
+```
+[✅] HTML5 & CSS3 — Dominado
+[✅] JavaScript Fundamentos — Em progresso
+[🔄] JavaScript Avançado (ES6+) — Em rota
+[⏳] React.js — Próxima missão
+[⏳] Node.js / Back-end — Horizonte
+```
+
+---
+
+## 💬 Filosofia de Bordo
+
+> *"Aprender, construir e compartilhar: o que move minha jornada no dev."*
+
+Economistar me ensinou que os melhores sistemas — mercados, código ou jornadas de carreira — emergem de **regras simples aplicadas com consistência**. É assim que encaro o desenvolvimento: uma linha de código por vez, um projeto por vez, sempre em frente.
 
 ---
 
 <div align="center">
-  <img src="https://github.com/flpzht/flpzht/blob/main/imgs/see-you-scb.gif" width="300px" alt="GIF animado: Spike Spiegel finalizando uma luta." />
-  <br/>
-  <h3>✨ Fim da Transmissão. See You Space Dev... ✨</h3>
+
+  <img src="https://github.com/flpzht/flpzht/blob/main/imgs/see-you-scb.gif" width="280px" alt="GIF animado: Spike Spiegel." />
+
+  ### ✨ Fim da Transmissão. See You Space Dev... ✨
+
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=flpzht.flpzht&color=BA0000)
+
 </div>
