@@ -111,7 +111,7 @@ Economista em transição de carreira, trazendo **raciocínio analítico** e **p
 
 > *"Aprender, construir e compartilhar: o que move minha jornada no dev."*
 
-Economistar me ensinou que os melhores sistemas — mercados, código ou jornadas de carreira — emergem de **regras simples aplicadas com consistência**. É assim que encaro o desenvolvimento: uma linha de código por vez, um projeto por vez, sempre em frente.
+"Economistar" me ensinou que os melhores sistemas (mercados, código ou jornadas de carreira) emergem de **regras simples aplicadas com consistência**. É assim que encaro o desenvolvimento: uma linha de código por vez, um projeto por vez, sempre em frente.
 
 ---
 
