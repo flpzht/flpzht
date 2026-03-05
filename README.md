@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/flpzht/flpzht/blob/main/imgs/ed-banner.webp" width="70%" alt="Banner: Logo estilizado com a frase See You Space Cowboy..."/>
+  <img src="https://github.com/flpzht/flpzht/blob/main/imgs/ed-banner.webp" width="50%" alt="Banner: Logo estilizado com a frase See You Space Cowboy..."/>
 </div>
 
 <br/>
