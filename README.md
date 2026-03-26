@@ -65,6 +65,7 @@ Economista em transição de carreira, trazendo **raciocínio analítico** e **p
 
 | 🚀 Projeto | 📋 Descrição | 🔗 |
 |:---|:---|:---:|
+| [**Around the World — JS Trilha**](https://github.com/flpzht/web_project_around_pt) | Projeto prático focado em JavaScript avançado e boas práticas de POO e API | [→](https://github.com/flpzht/web_project_around_pt) |
 | [**Landing Page — CSS Trilha**](https://github.com/flpzht/frontend-studies/tree/main/projects/01-landing-page) | Projeto prático focado em CSS avançado e boas práticas de estilização | [→](https://github.com/flpzht/frontend-studies/tree/main/projects/01-landing-page) |
 | [**Clone Estático YouTube I**](https://github.com/flpzht/frontend-studies/tree/main/projects/02-landing-page) | Recriação da interface do YouTube com HTML & CSS puro | [→](https://github.com/flpzht/frontend-studies/tree/main/projects/02-landing-page) |
 | [**Clone Estático YouTube II**](https://github.com/flpzht/frontend-studies/tree/main/projects/03-landing-page) | Versão aprimorada com foco em listagem e organização visual | [→](https://github.com/flpzht/frontend-studies/tree/main/projects/03-landing-page) |
@@ -74,9 +75,7 @@ Economista em transição de carreira, trazendo **raciocínio analítico** e **p
 
 <div align="center">
 
-[![frontend-studies](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=frontend-studies&theme=codeSTACKr&hide_border=true)](https://github.com/flpzht/frontend-studies)
-
-[![web_project_around](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=web_project_around&theme=codeSTACKr&hide_border=true)](https://github.com/flpzht/web_project_around_pt)
+[![frontend-studies](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=frontend-studies&theme=codeSTACKr&hide_border=true)](https://github.com/flpzht/frontend-studies);
 
 </div>
 
@@ -100,11 +99,11 @@ Economista em transição de carreira, trazendo **raciocínio analítico** e **p
 ## 🎯 Rota de Navegação
 
 ```
-[✅] HTML5 & CSS3 — Dominado
-[✅] JavaScript Fundamentos — Em progresso
-[🔄] JavaScript Avançado (ES6+) — Em rota
-[⏳] React.js — Próxima missão
-[⏳] Node.js / Back-end — Horizonte
+[✅] HTML5 & CSS3 - Dominado
+[✅] JavaScript Funamentos - Always evolving...
+[✅] JavaScript Avançado (ES6+) - Always evolving...
+[🔄] React.js - Em rota
+[⏳] Node.js / Back-end - Próxima missão 
 ```
 
 ---
