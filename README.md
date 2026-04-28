@@ -25,7 +25,7 @@
 const felipe = {
   role:       "Front-end Developer Jr.",
   background: "Ciências Econômicas → Dev Front-end",
-  focus:      ["HTML", "CSS", "JavaScript"],
+  focus:      ["HTML", "CSS", "JavaScript", "React"],
   goal:       "Interfaces responsivas, funcionais e acessíveis",
   vibe:       "Simples como Spike. Técnico como Jet. Curioso como Ed.",
 };
