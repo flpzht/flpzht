@@ -75,7 +75,7 @@ Economista em transição de carreira, trazendo **raciocínio analítico** e **p
 
 <div align="center">
 
-[![frontend-studies](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=frontend-studies&theme=codeSTACKr&hide_border=true)](https://github.com/flpzht/frontend-studies);
+[![frontend-studies](https://github-readme-stats.vercel.app/api/pin/?username=flpzht&repo=frontend-studies&theme=codeSTACKr&hide_border=true)](https://github.com/flpzht/frontend-studies)
 
 </div>
 
