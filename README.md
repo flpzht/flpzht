@@ -100,10 +100,12 @@ Economista em transição de carreira, trazendo **raciocínio analítico** e **p
 
 ```
 [✅] HTML5 & CSS3 - Dominado
-[✅] JavaScript Funamentos - Always evolving...
+[✅] JavaScript Funamentos - Dominado
 [✅] JavaScript Avançado (ES6+) - Always evolving...
-[🔄] React.js - Em rota
-[⏳] Node.js / Back-end - Próxima missão 
+[✅] React.js - Always evolving...
+[🔄] Node.js / Back-end - Em rota
+[⏳] TypeScript - Próxima missão
+[⏳] Angular - Próxima missão
 ```
 
 ---
